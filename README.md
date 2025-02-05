@@ -1,4 +1,8 @@
-## Hi there 👋
+## Bonjour/Hi there 👋
+- 🌱 I’m currently studying software engineering at Polytechnique Montréal
+- 🔭 I’m an AI enthousiast and I like to learn new things
+- 😄 Pronouns: he/him
+
 
 <!--
 **LeGoatier/LeGoatier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
